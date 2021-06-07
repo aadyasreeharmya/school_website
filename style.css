@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	text-emphasis-color: black;
+	font-family: cursive;
+	font-weight: lighter;
+	font-size: 300%;
+}
+html{
+	scroll-behavior: smooth;
+}
+#video{
+	width: 100%;
+	height: 500px;
+	border: none;
+}
+#marqueestyle{
+	background-color: blue;
+	color: white;
+}
+my_nav_bar{
+	position: sticky;
+	top: 0px;
+	z-index: 99999;
+}
+
+
+
